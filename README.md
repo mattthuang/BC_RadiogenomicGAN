@@ -1,4 +1,4 @@
-# **Conditional generative adversarial network driven radiomic prediction of mutation status based on magnetic resonance imaging of breast cancer **
+# Conditional generative adversarial network driven radiomic prediction of mutation status based on magnetic resonance imaging of breast cancer
 
 ## Introduction 
 
