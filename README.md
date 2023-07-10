@@ -18,7 +18,7 @@ We proposed the utilization of a well-trained conditional generative adversarial
 
 ### Architecture 
 
-![cGAN Architecture](/png/cgan arch.png)
+![cGAN Architecture](/png/cgan_arch.png)
 
 
 
