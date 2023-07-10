@@ -10,7 +10,7 @@ We proposed the utilization of a well-trained conditional generative adversarial
 
 
 
-![Overall study design](png\overall.png)
+![Overall study design](/png/overall.png)
 
 
 
@@ -18,7 +18,7 @@ We proposed the utilization of a well-trained conditional generative adversarial
 
 ### Architecture 
 
-![cGAN Architecture](png\cgan arch.png)
+![cGAN Architecture](/png/cgan arch.png)
 
 
 
@@ -87,7 +87,7 @@ python fid3d.py --real ../testreal/ --fake ../testfake/
 
 ### Architecture
 
-![CNN Architecture](png\cnn.png)
+![CNN Architecture](/png/cnn.png)
 
 ### Data
 
