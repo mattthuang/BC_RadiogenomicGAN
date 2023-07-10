@@ -153,5 +153,5 @@ python final.py --train-data  ./mutation/MutationStatus_Train.csv --test-data ./
 
 ### Results
 
-* cGAN generated images split and stored in `CNN/testing_image_cgan` and `CNN/training_image_cgan`, where only 46/546 training images are shown due to size restrictions
+* cGAN generated images split and stored in `CNN/testing_image_cgan` and `CNN/training_image_cgan`, where only 46/546 training images and 20/144 testing images are shown due to size restrictions
 * Well-train model is provided the `results` directory and training MRIs every 100 epochs are provided due to size restrictions
