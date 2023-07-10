@@ -1,4 +1,4 @@
-# **Conditional generative adversarial network driven radiomic prediction of mutation status based on magnetic resonance imaging of breast cancer **
+# Conditional generative adversarial network driven radiomic prediction of mutation status based on magnetic resonance imaging of breast cancer
 
 ## Introduction 
 
@@ -10,7 +10,7 @@ We proposed the utilization of a well-trained conditional generative adversarial
 
 
 
-![Overall study design](png\overall.png)
+![Overall study design](/png/overall.png)
 
 
 
@@ -18,7 +18,7 @@ We proposed the utilization of a well-trained conditional generative adversarial
 
 ### Architecture 
 
-![cGAN Architecture](png\cgan arch.png)
+![cGAN Architecture](/png/cgan_arch.png)
 
 
 
@@ -87,7 +87,7 @@ python fid3d.py --real ../testreal/ --fake ../testfake/
 
 ### Architecture
 
-![CNN Architecture](png\cnn.png)
+![CNN Architecture](/png/cnn.png)
 
 ### Data
 
@@ -153,5 +153,5 @@ python final.py --train-data  ./mutation/MutationStatus_Train.csv --test-data ./
 
 ### Results
 
-* cGAN generated images split and stored in `CNN/testing_image_cgan` and `CNN/training_image_cgan`, where only 46/546 training images are shown due to size restrictions
+* cGAN generated images split and stored in `CNN/testing_image_cgan` and `CNN/training_image_cgan`, where only 46/546 training images and 20/144 testing images are shown due to size restrictions
 * Well-train model is provided the `results` directory and training MRIs every 100 epochs are provided due to size restrictions
