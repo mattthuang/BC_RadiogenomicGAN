@@ -120,7 +120,7 @@ python matchimage.py --csvfile <file> --imagedir <image_directory> --outputdir <
 
 * `<file>` represents the path to the dataset csv file of interest 
 * `<image_directory>` referes to the directory which contains the cGAN/real patient MRIs
-* `<output_directory>` specifies the directory to move the copy the MRIs to
+* `<output_directory>` specifies the directory to move MRIs to
 
 ##### Example use: 
 
